@@ -17,6 +17,12 @@ My research so far has focused on Continental Shelf Dynamics, the analysis of oc
 
 ![Studying Areas](https://loreleylago.github.io/files/mapa gral.jpg)
 
+I had the unique opportunity to help collect the data I analyzed during my PhD. I participated in 3 cruises where we deployed and recovered moorings along different sections of the Argentine Continental Shelf. This experience was enlightening, not only because of the amazing ocean views, but also because I learned so much of most of the “science chain”: preparing the instruments, deploying and recovering them, carrying out data quality controls, analyzing the amazing data gathered, having long discussions about so many interesting features observed and publishing the results to share with the rest of the scientific community.
+
+![Cruise](https://loreleylago.github.io/files/ctd sunset.jpg)
+
+In the near future I hope to learn about the rest of the chain: transforming an idea into a project and being able to get funding to make that idea come true.
+
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
