@@ -11,7 +11,6 @@ redirect_from:
 
 ![CV](https://loreleylago.github.io/files/CV?LAGO?Loreley?short.pdf)
 
-Download CV:
-([CV Lago Loreley](https://loreleylago.github.io/files/CV?LAGO?Loreley?short.pdf)
+[Download CV](https://loreleylago.github.io/files/CV?LAGO?Loreley?short.pdf)
 
 
