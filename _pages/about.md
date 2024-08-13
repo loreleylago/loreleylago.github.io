@@ -12,8 +12,8 @@ I’m a very curious person who loves to learn how things work. So I guess scien
 I was trained as a physical oceanographer (master and PhD) at the University of Buenos Aires ([UBA](https://exactas.uba.ar/)). I’m more than thankful for the public and high-quality education this intitution provided me with.
 
 My research so far has focused on Continental Shelf Dynamics, the analysis of ocean currents and physical properties, with the aim to understand the forcing of the variability observed:
-- On the Argentine basin, within the Southwestern Atlantic during my PhD at the University of Buenos Aires ([CIMA](https://www.cima.fcen.uba.ar/)).
-- On the Chukchi Sea, within the Pacific Arctic during my postdoc at the Woods Hole Oceanographic Institution ([WHOI](https://www.whoi.edu/)).
+* On the Argentine basin, within the Southwestern Atlantic during my PhD at the University of Buenos Aires ([CIMA](https://www.cima.fcen.uba.ar/)).
+* On the Chukchi Sea, within the Pacific Arctic during my postdoc at the Woods Hole Oceanographic Institution ([WHOI](https://www.whoi.edu/)).
 
 ![Studying Areas](https://loreleylago.github.io/files/mapa gral.jpg)
 
