@@ -21,12 +21,12 @@ repository               : "loreleylago/loreleylago.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "https://loreleylago.github.io/files/Rory Lago.jpg"
   name             : "Loreley Lago"
-  pronouns         : "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : # "she/her"  
+  bio              : "Physical Oceanogrpher, PhD"
   location         : "Woods Hole, MA, US"
-  employer         : "Woods Hole Oceanographic Institution (WHOI)"
+  employer         : "WHOI"
   uri              : # URL
   email            : "loreley.lago@whoi.edu" 
 
