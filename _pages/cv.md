@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-![Studying Areas](https://loreleylago.github.io/files/CV?LAGO?Loreley?short.pdf)
+![CV](https://loreleylago.github.io/files/CV?LAGO?Loreley?short.pdf)
 
 Download CV:
 ([CV Lago Loreley](https://loreleylago.github.io/files/CV?LAGO?Loreley?short.pdf)
