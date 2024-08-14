@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-(https://loreleylago.github.io/files/CV_LAGO_Loreley_short.pdf)
+<iframe src="https://loreleylago.github.io/files/CV_LAGO_Loreley_short.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
 [Download CV](https://loreleylago.github.io/files/CV_LAGO_Loreley_short.pdf)
 
