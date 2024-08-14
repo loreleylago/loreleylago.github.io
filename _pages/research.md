@@ -1,11 +1,12 @@
 ---
-title: #"Research"
 permalink: /research/
+title: #"Research"
 author_profile: true
 redirect_from: 
   - /research/
-  - research.md
+  - /research.html
 ---
+{% include base_path %}
 
 # Southestern Atlanctic Ocean
 
