@@ -28,7 +28,7 @@ During this period, I learned to acquire, process and analyze in-situ data, as w
 * The along-shore wind stress generates cross‐shore pressure gradients than induce a geostrophic response in the along-shore currents.
 
 <div align="center">
-	<img src="https://loreleylago.github.io/files/along shore wind effect on along shore currents.png">
+	<img src="https://loreleylago.github.io/files/along shore wind effect on along shore currents 2.png">
 </div>
 
 * The wind also generates frequent flow reversals that are relevant to the local ecosystem, redistributing nutrients availability for the small pelagic species found in the region. In the shelf interior, velocities changed from -60 to 70 cm/s in only 8 days. In that period the de-tided TG increased the level 1.4 m.
@@ -39,6 +39,8 @@ During this period, I learned to acquire, process and analyze in-situ data, as w
 * The mean in situ along-shore de-tided transport is 2.65 Sv to the northeast and presents large variability, with a peak-to-peak range of 16 Sv, way larger than eported in previous studies.
 
 <div align="center">
-	<img src="https://loreleylago.github.io/files/trnasport estimates.png">
+	<img src="https://loreleylago.github.io/files/trnasport estimates 2.png">
 </div>
 
+
+Master. Technical analysis of the performance of coastal satellite altimetry raw products near the coast of Argentina. The most valuable knowledge from this work was to learn deeply the altimetry products, what they represent and how accurate they can be with improvements in the corrections made to them.
