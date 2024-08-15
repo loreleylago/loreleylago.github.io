@@ -26,4 +26,4 @@ I had the unique opportunity to help collect the data I analyzed during my PhD. 
 
 In the near future I hope to learn about the rest of the chain: transforming an idea into a project and being able to get funding to make that idea come true.
 
-I enjoy working in an interdisciplinary environment. Currently, I’m interacting with the biology group at WHOI that specializes in the study of harmful algal blooms in the Pacific Arctic. We are trying to merge the knowledge of the lifecycle of these toxic phytoplankton species with the physical properties and circulation that modulate these blooms initiation and spread.
+I enjoy working in interdisciplinary groups. Currently, I’m interacting with the biology group at WHOI that specializes in the study of harmful algal blooms in the Pacific Arctic. We are trying to merge the knowledge of the lifecycle of these toxic phytoplankton species with the physical properties and circulation that modulate these blooms initiation and spread.
