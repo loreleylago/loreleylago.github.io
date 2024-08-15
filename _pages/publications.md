@@ -9,6 +9,8 @@ author_profile: true
   <div class="wordwrap">You can all my articles on <a href="https://scholar.google.com.ar/citations?hl=en&user=CfmHaPoAAAAJ">my Google Scholar profile</a>.</div>
 {% endif %}
 
+
+
 # Chukchi Sea, Pacific Arctic
 
 During my current postdoc at WHOI in [Bob Pickart}(https://rpickart.whoi.edu/)'s lab , I'm studying the Chukchi Sea circulation through in situ hydrography and ADCP measurements, as well as with renanalysis outputs. We also carry out some particle advection analysis in an interdisciplinary approach to understand the summer harmful algal blooms being detected there. We just submitted the 1st paper to JGR: Oceans, stay tuned for updates! :)
@@ -42,5 +44,6 @@ During this period, I learned to acquire, process and analyze in-situ data, as w
 	<img src="https://loreleylago.github.io/files/trnasport estimates 2.png">
 </div>
 
+[Lago et al. (2017). Improved sea surface height from satellite altimetry in coastal zones: A case study in Southern Patagonia. IEEE.](https://ieeexplore.ieee.org/abstract/document/7919182)
 
-Master. Technical analysis of the performance of coastal satellite altimetry raw products near the coast of Argentina. The most valuable knowledge from this work was to learn deeply the altimetry products, what they represent and how accurate they can be with improvements in the corrections made to them.
+During my master I did a echnical analysis of the performance of coastal satellite altimetry raw products near the coast of Argentina. The most valuable knowledge from this work for me was to learn what satellite altimetry works and how accurate it can be when the most suitable corrections are chosen.
