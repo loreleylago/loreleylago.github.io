@@ -5,11 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can all my articles on <a href="https://scholar.google.com.ar/citations?hl=en&user=CfmHaPoAAAAJ">my Google Scholar profile</a>.</div>
-{% endif %}
-
-
 
 # Chukchi Sea, Pacific Arctic
 
