@@ -46,4 +46,4 @@ During this period, I learned to acquire, process and analyze in-situ data, as w
 
 [Lago et al. (2017). Improved sea surface height from satellite altimetry in coastal zones: A case study in Southern Patagonia. IEEE.](https://ieeexplore.ieee.org/abstract/document/7919182)
 
-During my master I did a echnical analysis of the performance of coastal satellite altimetry raw products near the coast of Argentina. The most valuable knowledge from this work for me was to learn what satellite altimetry works and how accurate it can be when the most suitable corrections are chosen.
+During my master I did a technical analysis of the performance of coastal satellite altimetry raw products near the coast of Argentina. The most valuable knowledge from this work for me was to learn what satellite altimetry works and how accurate it can be when the most suitable corrections are chosen.
