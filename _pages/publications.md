@@ -39,6 +39,6 @@ During this period, I learned to acquire, process and analyze in-situ data, as w
 * The mean in situ along-shore de-tided transport is 2.65 Sv to the northeast and presents large variability, with a peak-to-peak range of 16 Sv, way larger than eported in previous studies.
 
 <div align="center">
-	<img src="https://loreleylago.github.io/files/transport estimates.png">
+	<img src="https://loreleylago.github.io/files/trnasport estimates.png">
 </div>
 
