@@ -18,6 +18,7 @@ During my current postdoc at WHOI in [Bob Pickart}(https://rpickart.whoi.edu/)'s
 One cool reault I can share is:  The Bering Strait heat transport affects the bottom temperature further north, where these phytoplankton species rest in the bottom of the ocean, affecting the moment of the year when they “wake up” and form these local extremely toxic algal blooms.
 
 
+
 # Southestern Atlanctic Ocean
 
 During my master PhD, I was advised by scientists I admire deeply ([Martin Saraceno](https://www.cima.fcen.uba.ar/~saraceno/CV_saraceno/Welcome.html), [Alberto Piola](https://scholar.google.com.ar/citations?user=iWZi6o8AAAAJ&hl=en) y [Patricia Martos](https://www.researchgate.net/profile/Patricia-Martos)). They guided me in the analysis of the longest time series of velocity direct observations ever acquired in the Argentine basin, embedded in the full-of-exciting-features Southwestern Atlantic Ocean. The core objective was to analyze the continental shelf circulation and identify the forcing responsible for the variability observed.
