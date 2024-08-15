@@ -15,8 +15,8 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Science Communication"
-    url: /scicom/
+#  - title: "Science Communication"
+#    url: /scicom/
     
   # - title: "Guide"
   #  url: /markdown/
