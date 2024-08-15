@@ -5,10 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-
 # Chukchi Sea, Pacific Arctic
 
-During my current postdoc at WHOI in [Bob Pickart}(https://rpickart.whoi.edu/)'s lab , I'm studying the Chukchi Sea circulation through in situ hydrography and ADCP measurements, as well as with renanalysis outputs. We also carry out some particle advection analysis in an interdisciplinary approach to understand the summer harmful algal blooms being detected there. We just submitted the 1st paper to JGR: Oceans, stay tuned for updates! :)
+During my current postdoc at WHOI in [Bob Pickart](https://rpickart.whoi.edu/)'s lab , I'm studying the Chukchi Sea circulation through in situ hydrography and ADCP measurements, as well as with renanalysis outputs. We also carry out some particle advection analysis in an interdisciplinary approach to understand the summer harmful algal blooms being detected there. We just submitted the 1st paper to JGR: Oceans, stay tuned for updates! :)
 
 One cool reault I can share is:  The Bering Strait heat transport affects the bottom temperature further north, where these phytoplankton species rest in the bottom of the ocean, affecting the moment of the year when they “wake up” and form these local extremely toxic algal blooms.
 
