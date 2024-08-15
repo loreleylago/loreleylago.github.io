@@ -12,7 +12,7 @@ author_profile: true
 ## Assistant of practical applications (2018)
 * Physical Oceanography,Department of Marine Science School of Hard and Natural Sciences, [National University of Mar del Plata
 Physical Oceanography](https://www.mdp.edu.ar/)
-* Subject: Physical Oceanography
+* Subject: Physical Oceanography 
 
 
 ## Science communication
