@@ -30,9 +30,10 @@ During this period, I learned to acquire, process and analyze in-situ data, as w
 
 * The wind also generates frequent flow reversals that are relevant to the local ecosystem, redistributing nutrients availability for the small pelagic species found in the region. In the shelf interior, velocities changed from -60 to 70 cm/s in only 8 days. In that period the de-tided TG increased the level 1.4 m.
   
-* The mean in situ along-shore de-tided transport is 2.65 Sv to the northeast and presents large variability, with a peak-to-peak range of 16 Sv, way larger than eported in previous studies.
 
 [Lago et al. (2021). Volume transport variability on the northern argentine continental shelf from in situ and satellite altimetry data. JGR:Oceans.](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020JC016813)
+
+* The mean in situ along-shore de-tided transport is 2.65 Sv to the northeast and presents large variability, with a peak-to-peak range of 16 Sv, way larger than eported in previous studies.
 
 <div align="center">
 	<img src="https://loreleylago.github.io/files/transport estimates.png">
