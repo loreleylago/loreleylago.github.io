@@ -1,14 +1,17 @@
 ---
 layout: archive
-title: "Publications"
+title: #"Publications"
 permalink: /publications/
 author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="https://scholar.google.com.ar/citations?hl=en&user=CfmHaPoAAAAJ">my Google Scholar profile</a>.</div>
+  <div class="wordwrap">You can all my articles on <a href="https://scholar.google.com.ar/citations?hl=en&user=CfmHaPoAAAAJ">my Google Scholar profile</a>.</div>
 {% endif %}
 
+# Chukchi Sea, Pacific Arctic
+
+During my current postdoc at WHOI in [Bob Pickart}(https://rpickart.whoi.edu/)'s lab , I'm studying the Chukchi Sea circulation through in situ hydrography and ADCP measurements, as well as with renanalysis outputs. We also carry out some particle advection analysis in an interdisciplinary approach to understand the summer harmful algal blooms being detected there. We just submitted the 1st paper to JGR: Oceans, stay tuned for updates! :)
 
 
 # Southestern Atlanctic Ocean
