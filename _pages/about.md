@@ -31,8 +31,8 @@ In the near future I hope to learn about the rest of the chain: transforming an 
 I enjoy working in interdisciplinary groups. Currently, I’m interacting with the biology group at WHOI that specializes in the study of harmful algal blooms in the Pacific Arctic. We are trying to merge the knowledge of the lifecycle of these toxic phytoplankton species with the physical properties and circulation that modulate these blooms initiation and spread.
 
 ### Research Interests
-* Circulation Variability
-* Circulation Forcing
+* Circulation Variability and Forcing
+* Continental Shelf Dynamics
 * Large-scale Ocean Circulation
 * In-situ Measurements
 * Satellite Altimetry
