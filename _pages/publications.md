@@ -10,11 +10,15 @@ author_profile: true
 
 [Lago et al. (2025). Physical drivers of a massive harmful algal bloom in the Chukchi Sea in summer 2022. Journal of Geophysical Research: Oceans, 130(4), https://doi.org/10.1029/2024JC021624](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JC021624)
 
-During my current postdoc at WHOI in [Bob Pickart](https://rpickart.whoi.edu/)'s lab , I'm studying the Chukchi Sea circulation through in situ hydrographic data and ADCP measurements, as well as with renanalysis outputs. I also carry out particle advection analysis ([Ocean Parcels](https://oceanparcels.org/)) in an interdisciplinary approach to understand the summer harmful algal blooms being detected there. 
+During my current postdoc at WHOI in [Bob Pickart](https://rpickart.whoi.edu/)'s lab , I'm studying the Chukchi Sea circulation through in situ hydrographic data and ADCP measurements, as well as with renanalysis outputs. I also carry out particle advection analysis ([Ocean Parcels](https://oceanparcels.org/)) in an interdisciplinary approach to understand a massive summer harmful algal blooms detected there.
+
+
 
 One cool reault:  The Bering Strait heat transport affects the bottom temperature further north, where these toxic phytoplankton species rest in the bottom of the ocean, affecting the moment of the year when they “wake up” and form these local blooms. We were able to determine the most likely remote source of these cells and compare it to the possibility of a local bloom.
 
-
+<div align="center">
+	<img src="https://loreleylago.github.io/files/Figure 05.pdf">
+</div>
 
 ## Southestern Atlanctic Ocean
 
