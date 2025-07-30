@@ -16,13 +16,13 @@ I trained as a physical oceanographer (master and PhD) at the University of Buen
 * On the Chukchi Sea, within the Pacific Arctic during my postdoc at the Woods Hole Oceanographic Institution ([WHOI](https://www.whoi.edu/)).
 
 <div align="center">
-	<img src="https://loreleylago.github.io/files/CSD2.png">
+	<img src="https://loreleylago.github.io/files/CSD2.png" width="500">
 </div>
 
 I had the unique opportunity to help collect the data I analyzed during my PhD. I participated in 3 cruises where we deployed and recovered moorings along different sections of the Argentine Continental Shelf. This experience was enlightening, not only because of the amazing ocean views, but also because I learned so much about the “science chain”: preparing the instruments, deploying and recovering them, carrying out data quality controls, analyzing the amazing data gathered, having long discussions about so many interesting features observed and publishing the results to share with the rest of the scientific community.
 
 <div align="center">
-	<img src="https://loreleylago.github.io/files/cruise rainbow 2.jpg">
+	<img src="https://loreleylago.github.io/files/cruise rainbow 2.jpg" width="400">
 </div>
 
 
