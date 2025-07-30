@@ -17,7 +17,7 @@ During my current postdoc at WHOI in [Bob Pickart](https://rpickart.whoi.edu/)'s
 One cool reault:  The Bering Strait heat transport affects the bottom temperature further north, where these toxic phytoplankton species rest in the bottom of the ocean, affecting the moment of the year when they “wake up” and form these local blooms. We were able to determine the most likely remote source of these cells and compare it to the possibility of a local bloom.
 
 <div align="center">
-	<img src="https://loreleylago.github.io/files/Figure 05.pdf">
+	<img src="https://loreleylago.github.io/files/Figure 05.tiff">
 </div>
 
 ## Southestern Atlanctic Ocean
