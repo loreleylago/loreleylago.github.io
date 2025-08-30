@@ -21,7 +21,7 @@ repository               : "loreleylago/loreleylago.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://loreleylago.github.io/files/lsl_pic_revelle.jpg.jpg"
+  avatar           : "https://loreleylago.github.io/files/lsl_pic_revelle.jpg"
   name             : "Loreley Lago"
   pronouns         : # "she/her"  
   bio              : "Physical Oceanogrpher, PhD"
