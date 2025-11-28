@@ -27,14 +27,16 @@ I had the unique opportunity to help collect the data I later analyzed during my
 
 In the near future, I hope to explore the next step in the process: turning an idea into a project and securing funding to bring it to life.
 
-I enjoy working in interdisciplinary groups. Currently, I’m interacting with the biology group at WHOI that specializes in the study of harmful algal blooms in the Pacific Arctic. We are trying to merge the knowledge of the lifecycle of these toxic phytoplankton species with the physical properties and circulation that modulate these blooms initiation and spread.
+I enjoy working in interdisciplinary teams. Currently, I collaborate with the biology group at WHOI that studies harmful algal blooms in the Pacific Arctic, a phenomenon becoming more frequent due to warming conditions in the Arctic system. Together, we aim to connect knowledge of the lifecycle of these toxic phytoplankton with the physical properties and circulation patterns that influence the bloom initiation, growth and advection.
 
 ### Research Interests
+* Arctic Ocean
 * Circulation Variability and Forcing
+* Biophysical Interactions
 * Continental Shelf Dynamics
-* Large-scale Ocean Circulation
+* Climate Change
 * In-situ Measurements
 * Satellite Altimetry
-* Biophysical Interactions
+
 
   
