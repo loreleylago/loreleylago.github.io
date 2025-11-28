@@ -16,7 +16,7 @@ I trained as a physical oceanographer, completing my Master’s and PhD at the U
 
 
 <div align="center">
-	<img src="https://loreleylago.github.io/files/CSD2.png" width="500">
+	<img src="https://loreleylago.github.io/files/map_centerd_Pacific.png" width="500">
 </div>
 
 I had the unique opportunity to help collect the data I later analyzed during my research in several oceanogrphic cruises, deploying and recovering moorings and carrying out hydrografic profiles. The experience was eye-opening, not only because of the incredible ocean views, but also because I gained firsthand insight into the full “science chain”: preparing instruments, deploying and recovering them, performing data quality checks, analyzing the rich datasets, discussing fascinating observations with colleagues, and ultimately publishing the results to share with the scientific community.
